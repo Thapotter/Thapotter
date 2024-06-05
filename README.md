@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Thapotter/Thapotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Thais Carvalho
 
-Here are some ideas to get you started:
+- Estou estudando no Alura (https://cursos.alura.com.br/dashboard)
+- Estou me desenvolvento na linguagens javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📧
+
+00001212967082sp@al.educacao.sp.gov.br
+
+@thaispotter73
+
+![](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
